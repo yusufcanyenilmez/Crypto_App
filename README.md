@@ -61,7 +61,7 @@ Bu proje, özellikle **Android geliştirme** ve **REST API tüketimi** konuları
 ![Crypto List – Light](screenshots/LightTheme.png)
 
 #### HTTP 401 Hata Ekranı
-Bu ekran görüntüsü, geçersiz veya eksik API anahtarı kullanıldığında alınan **HTTP 401 Unauthorized** hatasını örneklemektedir.
+Geçersiz veya eksik API anahtarı kullanıldığında alınan **HTTP 401 Unauthorized** hatasının örneği.
 ![HTTP 401 Error](screenshots/HTTPError401.png)
 
 ---
